@@ -557,6 +557,22 @@ td {
         max-height: auto;
     }
 
-
+    .problems {
+        width: 100%;
+        margin: 0 20px;
+    }
+    
+    .review-section {
+        flex-wrap: wrap; 
+    }
+    
+    .review {
+        justify-content: center;
+    }
+    
+    .fridge-video {
+        max-height: auto;
+        max-width: 50%;
+    }
 
 } 
