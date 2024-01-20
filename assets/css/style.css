@@ -48,14 +48,14 @@ ul li a {
     flex-direction: column;
     justify-content: center;    
     align-items: center;
-    background: url("../images/pano-hero-image.jpg");
+    background: url("../images/pano-hero-image.webp");
     height: 500px;
     width: 100%;
     background-size: cover;
     background-clip: border-box;
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 90%;
+    opacity: 95%;
 }
 
 #hero-overlay-text {
