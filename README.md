@@ -119,6 +119,11 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ## Technology Used
 
+- HTML and CSS was used to create the website.
+- All wireframes were created using [Balsamiq]()  
+- All icons used across the website were found on [Font Awesome]()
+- [Google fonts]() was used for all typography
+
 ***
 
 ## Deployment
@@ -150,3 +155,7 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ## Acknowledgements
 
+- My Mentor
+- [MCEA website for the logo used in the footer, linking to Cherwel Caravan Services resgistered profile]()
+- [Gas Safe Register logo, also used in the footer and linking to the bucompanies registered profile]()
+- Kera Cudmore - for her readme.md presentation which was a big help in writing my first readme.
