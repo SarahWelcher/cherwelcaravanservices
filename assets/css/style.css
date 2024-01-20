@@ -333,3 +333,30 @@ td {
     text-wrap: nowrap;
 }
 
+/* ------------------------- reviews ------------------------------- */
+
+.star-rating {
+    color: #BD9E24;
+}
+
+.review {
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+    color: #3D5467;
+    height: 230px;
+    text-align: center;
+    font-size: 130%;
+}
+
+.customer {
+    font-style: italic;
+    text-align: center;
+    color: #3D5467;
+    font-size: 110%;
+}
+
+.review-section {
+    width: 100%;
+    display: flex;
+}
