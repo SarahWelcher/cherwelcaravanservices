@@ -50,7 +50,7 @@ ul li a {
     align-items: center;
     background: url("../images/pano-hero-image.jpg");
     height: 500px;
-    max-width: 100%;
+    width: 100%;
     background-size: cover;
     background-clip: border-box;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@ ul li a {
     width: 600px;
     height: auto;
     border-radius: 10px;
-    background-color: rgba(61, 84, 103, .9);
+    background-color: rgba(41, 56, 71, .8);
     right: 90px; 
     position: absolute; 
     line-height: 200%;
@@ -94,3 +94,31 @@ ul li a {
 #contact-button a {
     text-decoration: none;
 } 
+
+/* ---------------------------- services grid ------------------------------ */
+
+#services {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    min-height: 400px;
+    max-width: 100%;
+}
+
+.options {
+    background-color: rgba(41, 56, 71, .8);
+    color: #EFE6DD;
+    height: 170px;
+    text-align: center;
+    padding: 25px 10px 50px 10px;
+    margin: 3px 2px 0 0;
+    border-style: none;
+}
+
+#services h2 {
+    margin: 1px 0 1px 0;
+    padding: 0;
+}
+
+#services p {
+    font-size: 120%;
+}
