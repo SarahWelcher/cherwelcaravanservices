@@ -439,3 +439,14 @@ td {
     font-size: 190%;
 }
 
+/* ---------------------------- Gallery ---------------------------- */
+
+#photos {
+    clear: both;
+    column-count: 3;
+    column-gap: 2px;
+}
+
+#photos img {
+    width: 100%;
+}
