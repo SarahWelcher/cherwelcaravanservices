@@ -254,3 +254,65 @@ td {
 .hide-border {
     border-bottom: none;
 }
+
+/* ------------------------ Contact form --------------------------- */
+
+#contact-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+
+#form {
+    margin-top: 80px;
+    font-size: 150%;
+    color:#3D5467;
+}
+
+.email-phone {
+    display: inline-flex;
+}
+
+.caravan-details {
+    display: inline-flex;
+}
+
+.location {
+    display: inline-flex;
+}
+
+.form-field {
+    width: 250px;
+    height: 25px;
+    margin: 10px;
+}
+
+.query-field {
+    width: 100%;
+}
+
+.form-button {
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-button input {
+    margin: 5px;
+    padding: 5px;
+    color: #293847;
+    border-radius: 5%;
+    border-color: #ABD1B5;
+    background-color: #efe6dd;
+    border-width: 5px;
+}
+
+.submit-button input {
+    font-size: 100%;
+}
+
+.reset-button input {
+    font-size: 80%;
+}
