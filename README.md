@@ -73,8 +73,9 @@ Basic wireframes were created for mobile, tablet and desktop using Balsamiq.
 ### Colors
 
 The company does not have an official logo, but the business card uses dark blue text. This was used as a base for the coolers color generator, which came up with a pallet consisting of blues and earthy tones. Blue represents loyalty, reliability and confidence, and the earthy tones signify nature; customers often visit places of natural beauty when using their caravans for holidays or short breaks. 
-The color pallette was created using [Coolors](https://www.coolors.co/). 
-![Color palette showing 5 different muted earthy tones; blues, greens, reds and stoney colors]()
+The color palette was created using [Coolors](https://www.coolors.co/). 
+
+![Color palette showing 5 different muted earthy tones; blue, green, reds and stoney colors](assets/readme-images/color-palette.png)
 
 ### Typography
 
