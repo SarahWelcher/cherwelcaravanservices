@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Mobile caravan servicing and repairs across Norfolk and Cambridgeshire">
+  <meta name="keywords" content="caravan, service, mobile service, twin axle, touring caravan, campervan, tourer, repairs, norfolk, cambridgeshire, gas safety test, gas test, damp test, caravan service">
+  <meta name="author" content="Sarah Welcher">
+
+
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=BenchNine:wght@300;400;700&family=Oswald:wght@200;300;400&display=swap"
+    rel="stylesheet">
+
+  <script src="https://kit.fontawesome.com/1da8eebf97.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+
+  <title>Cherwel Caravan Services</title>
+</head>
+
+<body>
+  <header>
+    <a href="index.html">
+      <h1 id="site-logo">Cherwel Caravan Services</h1>
+    </a>
+    <nav>
+      <ul id="navigation-list">
+        <li class="navigation-items"><a href="index.html">Home</a></li>
+        <li class="navigation-items"><a href="prices.html">Prices</a></li>
+        <li class="navigation-items"><a href="contact.html" class="active">Contact</a></li>
+        <li class="navigation-items"><a href="problems.html">Common Problems</a></li>
+        <li class="navigation-items"><a href="gallery.html">Gallery</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div id="contact-container">
+    <div id="form">
+      <form class="contact-form" action="thank-you.html" method="GET">
+        <label for="full-name">Full Name * </label>
+        <input class="fname form-field" id="full-name" type="text" name="full-name" required aria-required="true">
+        <br class="hide">
+        <div class="email-phone">
+          <label for="email">Email Address * </label>
+          <input class="form-field" id="email" type="email" name="email" required aria-required="true">
+        </div>
+        <div class="email-phone">
+          <label for="phone">Phone Number </label>
+          <input class="form-field" id="phone" type="text" name="phone">
+        </div>
+        <br class="hide">
+        <div class="caravan-details">
+          <label for="make">Caravan Make / Model </label>
+          <input class="form-field" id="make" type="text" name="make">
+        </div>
+        <div class="caravan-details">
+          <label for="year">Caravan Year </label>
+          <input class="form-field" id="year" type="text" name="year">
+        </div>
+        <br class="hide">
+        <div class="location">
+          <label for="cust-location">Your Location </label>
+          <input class="form-field" id="cust-location" type="text" name="cust-location">
+        </div>
+        <div class="location">
+          <label for="van-location">Caravan Location </label>
+          <input class="form-field" id="van-location" type="text" name="van-location">
+        </div>
+        <br class="hide">
+        <label for="message">Query / Comment * </label>
+        <br class="hide">
+        <textarea class="query-field" name="message" id="message" rows="10" cols="40"></textarea>
+        <br class="hide">
+        <div class="form-button submit-button">
+          <input type="submit" value="Send Message">
+        </div>
+        <div class="form-button reset-button">
+          <input type="reset" value="Reset Form">
+        </div>
+      </form>
+    </div>
