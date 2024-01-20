@@ -10,7 +10,7 @@ body {
     font-family: Oswald, sans-serif;
     color: #293847;
     text-transform: uppercase;
-    font-size: 250%;
+    font-size: 230%;
     letter-spacing: 2px;
     float: left;
     margin: 7px;
@@ -330,7 +330,6 @@ td {
     line-height: 25px;
     color: #293847;
     text-align: center;
-    text-wrap: nowrap;
 }
 
 /* ------------------------- reviews ------------------------------- */
@@ -752,7 +751,7 @@ td {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        max-height: auto;
+        padding-top: 4.5em;
     }
 
     .problems {
@@ -766,11 +765,13 @@ td {
     
     .review {
         justify-content: center;
+        margin: 0;
+        padding: 0.5;
+
     }
     
     .fridge-video {
-        max-height: auto;
-        max-width: 50%;
+        max-width: 100vw;
     }
 
 } 
