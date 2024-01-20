@@ -40,3 +40,57 @@ ul li a {
 .active {
     text-decoration: underline;
 }
+
+/* ------------------------- hero image and overlay text ---------------------- */
+
+#hero-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    align-items: center;
+    background: url("../images/pano-hero-image.jpg");
+    height: 500px;
+    max-width: 100%;
+    background-size: cover;
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 90%;
+}
+
+#hero-overlay-text {
+    font-size: 120%;
+    color: #efe6dd;
+    font-family: BenchNine, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 1.5px;
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+    background-color: rgba(61, 84, 103, .9);
+    right: 90px; 
+    position: absolute; 
+    line-height: 200%;
+}
+
+#contact-button {
+    background-color: #ABD1B5;
+    font-family: BenchNine, sans-serif;
+    text-transform: uppercase;
+    font-size: 110%;
+    border-style: none;
+    border-radius: 5px;
+    max-width: 35%;
+    margin: 10px 0 20px 200px;
+}
+
+#contact-button h3 {
+    color: #293847;
+    padding: 2px 5px 2px 5px;
+    margin: 2px;
+}
+
+#contact-button a {
+    text-decoration: none;
+} 
