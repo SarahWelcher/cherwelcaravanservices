@@ -267,7 +267,7 @@ td {
 #form {
     margin-top: 80px;
     font-size: 150%;
-    color:#3D5467;
+    color:#293847;
 }
 
 .email-phone {
@@ -343,7 +343,7 @@ td {
     width: 100%;
     padding: 1rem;
     text-align: center;
-    color: #3D5467;
+    color: #293847;
     height: 230px;
     text-align: center;
     font-size: 130%;
@@ -352,7 +352,7 @@ td {
 .customer {
     font-style: italic;
     text-align: center;
-    color: #3D5467;
+    color: #293847;
     font-size: 110%;
 }
 
@@ -576,3 +576,4 @@ td {
     }
 
 } 
+
