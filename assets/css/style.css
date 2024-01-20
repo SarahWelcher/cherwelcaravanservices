@@ -316,3 +316,20 @@ td {
 .reset-button input {
     font-size: 80%;
 }
+
+/* ---------- contact information --------------- */
+
+#contact {
+    background-color: #ABD1B5;
+    border-style: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px 20px 10px 20px;
+    font-size: 200%;
+    line-height: 25px;
+    color: #293847;
+    text-align: center;
+    text-wrap: nowrap;
+}
+
