@@ -40,3 +40,73 @@ Cherwel Caravan Services is available to view at ![link]()
   - [Acknowledgements](#acknowledgements)
 
 ***
+
+## User Experience (UX)
+
+### Key Information
+
+### Client Goals
+
+***
+
+## Design
+
+### Wireframes 
+
+### Colors
+
+### Typography
+
+### Images
+
+### Accessibility
+
+### Structure
+
+#### Homepage 
+
+#### Prices
+
+#### Contact 
+
+#### Common problems
+
+#### Gallery
+
+### Future Features
+
+***
+
+## Technology Used
+
+***
+
+## Deployment
+
+### How to fork
+
+### How to clone
+
+***
+
+## Testing
+
+### W3 Validator results
+
+***
+
+## Bugs & Issues
+
+### Solved bugs
+
+- 
+-
+
+### Unresolved issues
+
+***
+
+## Credits
+
+## Acknowledgements
+
