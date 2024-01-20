@@ -1,0 +1,42 @@
+body {
+    font-family: BenchNine, sans-serif;
+    background-color: #EFE6DD;
+    max-width: 100%;
+}
+
+/* ---------------------- header ---------------------- */
+
+#site-logo {
+    font-family: Oswald, sans-serif;
+    color: #293847;
+    text-transform: uppercase;
+    font-size: 250%;
+    letter-spacing: 2px;
+    float: left;
+    margin: 7px;
+    max-width: 100%;
+}
+
+nav {
+    float: right;
+    padding-right: 7px;
+    margin: 15px 0 0 0;
+}
+
+ul li {
+    list-style-type: none;
+    font-family: Oswald, sans-serif;
+    display: inline;
+}
+
+ul li a {
+    color: #293847;
+    padding: 0 7px 0 7px;
+    font-size: 120%;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+.active {
+    text-decoration: underline;
+}
