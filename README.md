@@ -63,10 +63,11 @@ Cherwel Caravan Services is available to view at ![link]()
 ### Wireframes 
 
 Basic wireframes were created for mobile, tablet and desktop using Balsamiq.
+
 ![Homepage wireframe](/assets/readme-images/home-wireframe.png)
-![Prices wireframe]()
-![Contact wireframe]()
-![Common Problems wireframe]()
+![Prices wireframe](/assets/readme-images/prices-wireframe.png)
+![Contact wireframe](/assets/readme-images/contact-wireframe.png)
+![Common Problems wireframe](/assets/readme-images/problems-wireframe.png)
 ![Gallery wireframe]()
 
 ### Colors
