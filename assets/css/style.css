@@ -157,16 +157,19 @@ ul li a {
     border-radius: 5px;
 }
 
-#about-us-text-container #about-us-text {
-    width: 90%;
-    height: 90%;
+#about-us-text-container {
+    width: 100%;
+    height: 100%;
     margin: 10px;
-    font-size: 120%;
+    font-size: 110%;
     color: #293847;
     font-family: BenchNine, sans-serif;
     text-align: center;
     letter-spacing: 1.5px;
-    padding: 30px;
+}
+
+#about-us-text {
+    padding: 10px;
 }
 
 /* -------------------------- Footer --------------------------------- */
