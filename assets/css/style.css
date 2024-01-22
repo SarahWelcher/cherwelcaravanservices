@@ -63,7 +63,7 @@ ul li a {
 }
 
 #hero-overlay-text {
-    font-size: 120%;
+    font-size: 110%;
     color: #efe6dd;
     font-family: BenchNine, sans-serif;
     text-transform: uppercase;
@@ -73,7 +73,6 @@ ul li a {
     height: auto;
     border-radius: 10px;
     background-color: rgba(41, 56, 71, .8);
-    right: 90px; 
     position: absolute; 
     line-height: 200%;
 }
@@ -142,7 +141,6 @@ ul li a {
     border: 8px solid #293847;
     margin: 30px 20px 0 30px;
     overflow: hidden;
-
 }
 
 #portrait-bg img {
@@ -200,12 +198,12 @@ footer {
  
  #mcea-logo img {
      width: 4em;
-     height: 1.4em;
+     height: auto;
  }
  
  #gas-logo img {
      width: 3em;
-     height: 3.4em;
+     height: auto;
  }
 
  /* -------------------- prices ------------------------------ */
@@ -215,9 +213,9 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 3em;
+    padding-top: 0;
     color: #293847;
-    max-width: 100%;
+    width: 100%;
 }
 
 .prices-intro-container {
@@ -408,8 +406,6 @@ td {
     justify-content: center;
     align-items: center;
     padding: 1em;
-    max-width: 100%;
-    height: auto;
 }
 
 .fridge-text {
@@ -523,6 +519,13 @@ td {
 
     .mobile-only {
         display: none;
+    }
+
+    .prices-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
     }
 }
 
@@ -760,19 +763,21 @@ td {
     }
 
     #hero-container {
-        max-width: 100%;
-        max-height: 450px;
+        /* max-width: 100%;
+        max-height: 450px; */
         display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
     }
 
     #hero-overlay-text {
-        position: absolute;
-        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 100%;
         max-height: 400px;
-        right: 1em;
+    }
+
+    #contact-button {
+        margin: 0;
     }
 
     #services {
