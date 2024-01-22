@@ -702,6 +702,14 @@ td {
         margin-bottom: 4em;
     }
 
+    #thanks-bg {
+        padding: 2em;
+    }
+
+    #thank-you, #thanks-message, #terms {
+        padding: 0.5em;
+    }
+
     .fridge-video, .fridge-text {
         display: flex;
         flex-direction: column;
