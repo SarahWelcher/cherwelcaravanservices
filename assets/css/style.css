@@ -81,7 +81,7 @@ ul li a {
     background-color: #ABD1B5;
     font-family: BenchNine, sans-serif;
     text-transform: uppercase;
-    font-size: 100%;
+    font-size: 110%;
     border-style: none;
     border-radius: 5px;
     max-width: 35%;
@@ -110,9 +110,9 @@ ul li a {
 .options {
     background-color: rgba(41, 56, 71, .8);
     color: #EFE6DD;
-    height: auto;
+    height: 170px;
     text-align: center;
-    padding: 25px 10px 25px 10px;
+    padding: 25px 10px 50px 10px;
     margin: 3px 2px 0 0;
     border-style: none;
 }
@@ -224,7 +224,7 @@ footer {
 .prices-intro-container {
     background-color: #ABD1B5;
     border-radius: 10px;
-    padding: 2em;
+    padding: 7px;
 }
 
 .prices-intro h2 {
@@ -644,7 +644,7 @@ td {
     }
 
     .prices-intro-container {
-        max-width: 100%;
+        width: 100%;
         background-color: #ABD1B5;
         border-radius: 10px;
         margin: 0;
@@ -656,27 +656,27 @@ td {
     }
 
     .prices-intro {
-        font-size: 130%;
+        font-size: 110%;
         text-align: center;
-        padding: 1em;
+        padding: 5px;
     }
 
     .table-container {
         background-color: #ABD1B5;
         margin: 0.5em;
         border-radius: 10px;
-        padding: 2em;
+        padding: 5px;
     }
 
     .prices-table {
 
         justify-content: center;
         align-items: center;
-        font-size: 130%;
+        font-size: 110%;
     }
 
     td {
-        padding: 0.3em 1em;
+        padding: 10px 15px;
         border-bottom: 1px solid #293847;
     }
 
@@ -766,15 +766,21 @@ td {
     }
 
     #hero-container {
+        /* max-width: 100%;
+        max-height: 450px; */
         display: flex;
     }
 
     #hero-overlay-text {
         flex-direction: column;
-        align-items: center;
         justify-content: center;
-        width: 100%;
+        align-items: center;
+        max-width: 100%;
         max-height: 400px;
+    }
+
+    #contact-button {
+        margin: 0;
     }
 
     #services {
@@ -823,10 +829,3 @@ td {
         width: 100%;
     }
 } 
-
-@media screen and (max-width: 974px) {
-    .options{
-        font-size: 90%;
-        height: auto;
-    }
-}
