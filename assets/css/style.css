@@ -530,13 +530,6 @@ td {
         align-items: center;
         width: 100%;
     }
-
-    .contact-container {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
 }
 
 /* responsive design - tablet */
@@ -544,7 +537,7 @@ td {
 @media screen and (max-width: 800px) {
 
     body {
-        max-width: 100%;
+        width: 100%;
     }
 
     #site-logo {
@@ -582,8 +575,8 @@ td {
     #services {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        max-height: 41rem;
-        max-width: 100%;
+        height: auto;
+        width: 100%;
     }
 
     .options {
@@ -604,7 +597,6 @@ td {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        margin-top: 20em;
     }
 
     #portait-container {
@@ -651,7 +643,7 @@ td {
     }
 
     .prices-intro-container {
-        max-width: 100%;
+        width: 100%;
         background-color: #ABD1B5;
         border-radius: 10px;
         margin: 0;
@@ -714,7 +706,7 @@ td {
 
     #contact {
         font-size: 130%;
-        max-width: 100%;
+        width: 100%;
     }
 
     .review{ 
@@ -747,8 +739,8 @@ td {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        max-width: 100%;
-        max-height: 400px;
+        width: 100%;
+        height: auto;
     }
 
     #contact-button {
@@ -784,20 +776,6 @@ td {
 
     .mobile-only {
         display: initial;
-    }
-
-    #hero-container {
-        width: 100%;
-        height: 450px;
-        display: flex;
-    }
-
-    #hero-overlay-text {
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        max-width: 100%;
-        max-height: 400px;
     }
 
     #contact-button {
