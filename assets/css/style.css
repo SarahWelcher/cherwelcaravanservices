@@ -379,42 +379,41 @@ td {
 .problems-intro-container {
     background-color: #ABD1B5;
     border-radius: 10px;
-    margin: 2em 1em 0.5em 1em;
-    padding: 1em;
+    padding: 10px;
 }
 
 .problems-intro {
     text-align: center;
-    line-height: 1.45em;
-    font-size: 190%;
+    font-size: 150%;
 }
 
 /* ----------------------- fridge problems ------------------------------- */
 
 
 .fridge-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #ABD1B5;
-    margin: 0.5em;
+    margin: 10px;
     border-radius: 10px;
-    padding: 2em;
-}
-
-.fridge-title {
-    font-size: 190%;
-    text-align: center;
+    padding: 10px;
 }
 
 .fridge-video {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1em;
+    width: 100%;
+}
+
+.fridge-title {
+    font-size: 150%;
+    text-align: center;
 }
 
 .fridge-text {
     text-align: center;
-    font-size: 190%;
-    padding: 1em;
+    font-size: 150%;
+    padding: 5px;
 }
 
 .fridge-text li {
@@ -438,7 +437,7 @@ td {
 
 .water-issue {
     text-align: center;
-    font-size: 190%;
+    font-size: 150%;
 }
 
 /* ---------------------------- Gallery ---------------------------- */
@@ -731,15 +730,6 @@ td {
         padding: 0.5em;
     }
 
-    .fridge-video, .fridge-text {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .problems-intro h2, p {
-        margin: 0;
-    }
-
   #photos {
       column-count: 2;
   }
@@ -855,7 +845,11 @@ td {
         padding: 0.5;
     }
 
-    .problems {
+    .problems-intro-container, .fridge-container, .water-container{
         width: 100%;
+    }
+
+    .fridge-text{
+        width: 90%;
     }
 } 
