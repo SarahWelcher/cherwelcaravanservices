@@ -74,15 +74,15 @@ Basic wireframes were created for mobile, tablet and desktop using Balsamiq.
 </details>
 <details>
 <summary>Prices wireframe</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/prices-wireframe.png">
+<img src="assets/readme-images/prices-wireframe.png">
 </details>
 <details>
 <summary>Contact wireframe</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/contact-wireframe.png">
+<img src="assets/readme-images/contact-wireframe.png">
 </details>
 <details>
 <summary>Common Problems wireframe</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/problems-wireframe.png">
+<img src="assets/readme-images/problems-wireframe.png">
 </details>
 <details>
 <summary>Gallery</summary>
@@ -197,11 +197,11 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 </details>
 <details>
 <summary>Prices</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/mobile-prices-lighthouse.png">
+<img src="assets/readme-images/mobile-prices-lighthouse.png">
 </details>
 <details>
 <summary>Contact</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/mobile-contact-lighthouse.png">
+<img src="assets/readme-images/mobile-contact-lighthouse.png">
 </details>
 <details>
 <summary>Common Problems</summary>
@@ -213,34 +213,34 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 </details>
 <details>
 <summary>Thank you page</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/mobile-thanks-lighthouse.png">
+<img src="assets/readme-images/mobile-thanks-lighthouse.png">
 </details>
 
 #### Desktop
 
 <details>
 <summary>Homepage</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-homepage-lighthouse.png">
+<img src="assets/readme-images/desktop-homepage-lighthouse.png">
 </details>
 <details>
 <summary>Prices</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-prices-lighthouse.png">
+<img src="assets/readme-images/desktop-prices-lighthouse.png">
 </details>
 <details>
 <summary>Contact</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-contact-lighthouse.png">
+<img src="assets/readme-images/desktop-contact-lighthouse.png">
 </details>
 <details>
 <summary>Common Problems</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-problems-lighthouse.png">
+<img src="assets/readme-images/desktop-problems-lighthouse.png">
 </details>
 <details>
 <summary>Gallery</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-gallery-lighthouse.png">
+<img src="assets/readme-images/desktop-gallery-lighthouse.png">
 </details>
 <details>
 <summary>Thank you page</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-thanks-lighthouse.png">
+<img src="assets/readme-images/desktop-thanks-lighthouse.png">
 </details>
 
 ***
