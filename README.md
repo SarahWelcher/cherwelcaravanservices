@@ -2,42 +2,46 @@
 
 This website is designed to be responsive on a range of devices. Cherwel Caravan Services website allows current and potential future customers to find out what services are offered and the cost of these. It also allows customers to contat the business owner with any questions or queries they may have. 
 
-MOCK UP IMAGE
+![](/assets/readme-images/mockup.png)
 
-Cherwel Caravan Services is available to view at ![link]()
+Cherwel Caravan Services is available to view at ![]()
 ***
 
 ## Table of Contents
 
-- [Cherwel Caravan Services](#cherwel-caravan-services)
-  - [Table of Contents](#table-of-contents)
-  - [User Experience (UX)](#user-experience-ux)
-    - [Key Information](#key-information)
-    - [Client Goals](#client-goals)
-  - [Design](#design)
-    - [Wireframes](#wireframes)
-    - [Colors](#colors)
-    - [Typography](#typography)
-    - [Images](#images)
-    - [Accessibility](#accessibility)
-    - [Structure](#structure)
-      - [Homepage](#homepage)
-      - [Prices](#prices)
-      - [Contact](#contact)
-      - [Common problems](#common-problems)
-      - [Gallery](#gallery)
-    - [Future Features](#future-features)
-  - [Technology Used](#technology-used)
-  - [Deployment](#deployment)
-    - [How to fork](#how-to-fork)
-    - [How to clone](#how-to-clone)
-  - [Testing](#testing)
-    - [W3 Validator results](#w3-validator-results)
-  - [Bugs \& Issues](#bugs--issues)
-    - [Solved bugs](#solved-bugs)
-    - [Unresolved issues](#unresolved-issues)
-  - [Credits](#credits)
-  - [Acknowledgements](#acknowledgements)
+ - [User Experience (UX)](#user-experience-ux)
+  - [Key Information](#key-information)
+  - [Client Goals](#client-goals)
+- [Design](#design)
+  - [Wireframes](#wireframes)
+  - [Colors](#colors)
+  - [Typography](#typography)
+  - [Images](#images)
+  - [Accessibility](#accessibility)
+  - [Structure](#structure)
+    - [Homepage](#homepage)
+    - [Prices](#prices)
+    - [Contact](#contact)
+    - [Common problems](#common-problems)
+    - [Gallery](#gallery)
+- [Features](#features)
+  - [Future Features](#future-features)
+- [Technology Used](#technology-used)
+- [Testing](#testing)
+  - [W3 Validator results](#w3-validator-results)
+  - [Jigsaw results](#jigsaw-results)
+  - [Other Testing](#other-testing)
+  - [Lighthouse Results](lighthouse-results)
+    - [Mobile](#mobile)
+    - [Desktop](desktop)
+- [Bugs \& Issues](#bugs--issues)
+  - [Solved bugs](#solved-bugs)
+  - [Unresolved issues](#unresolved-issues)
+- [Deployment](#deployment)
+  - [How to fork](#how-to-fork)
+  - [How to clone](#how-to-clone)
+- [Credits](#credits)
+- [Acknowledgements](#acknowledgements)
 
 ***
 
@@ -64,26 +68,41 @@ Cherwel Caravan Services is available to view at ![link]()
 
 Basic wireframes were created for mobile, tablet and desktop using Balsamiq.
 
-![Homepage wireframe](/assets/readme-images/home-wireframe.png)
-![Prices wireframe](/assets/readme-images/prices-wireframe.png)
-![Contact wireframe](/assets/readme-images/contact-wireframe.png)
-![Common Problems wireframe](/assets/readme-images/problems-wireframe.png)
-![Gallery wireframe]()
+<details>
+<summary>Homepage Wireframe</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/home-wireframe.png">
+</details>
+<details>
+<summary>Prices wireframe</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/prices-wireframe.png">
+</details>
+<details>
+<summary>Contact wireframe</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/contact-wireframe.png">
+</details>
+<details>
+<summary>Common Problems wireframe</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/problems-wireframe.png">
+</details>
+<details>
+<summary>Gallery</summary>
+<img src="">
+</details>
 
 ### Colors
 
-The company does not have an official logo, but the business card uses dark blue text. This was used as a base for the coolers color generator, which came up with a pallet consisting of blues and earthy tones. Blue represents loyalty, reliability and confidence, and the earthy tones signify nature; customers often visit places of natural beauty when using their caravans for holidays or short breaks. 
+The company does not have an official logo. A dark blue/grey was used as a starting point for the coolers color generator (based on an old business card that was used previouslyƒ), which came up with a pallet consisting of earthy tones. Blue represents loyalty, reliability and confidence, and the earthy tones signify nature; customers often visit places of natural beauty when using their caravans for holidays or short breaks. 
 The color palette was created using [Coolors](https://www.coolors.co/). 
 
-![Color palette showing 5 different muted earthy tones; blue, green, reds and stoney colors](assets/readme-images/color-palette.png)
+![Color palette showing 5 different muted earthy tones; blue/grey, green, reds and stoney colors](assets/readme-images/color-palette.png)
 
 ### Typography
 
-Google fonts was used to select the typography used within the website.
+Google fonts was used to select the typography used within the website. BenchNine was primarly used across the site, with Oswald for logo and navigation bar, and sans-serif as fall back.
 
 ### Images
 
-Most images used within the website were photographed and edited by myself, however I did use images from outside sources (credited below), as well as icons from FontAwesome.
+Most images used within the website were photographed and edited by myself, however I did use images of company logos from outside sources registered profile links (credited below), as well as icons from FontAwesome.
 
 ### Accessibility
 
@@ -112,6 +131,10 @@ This page was placed after the contact page, as users are able to call the engin
 
 This page shows some images of recent work being carried out.
 
+***
+
+## Features
+
 ### Future Features
 
 In future, I would like to add in a calendar that can be used to book a service in whilst on the website.
@@ -128,17 +151,97 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ***
 
-## Deployment
-
-### How to fork
-
-### How to clone
-
-***
-
 ## Testing
 
 ### W3 Validator results
+
+<details>
+<summary>index.html</summary>
+<img src="">
+</details>
+<details>
+<summary>prices.html</summary>
+<img src="">
+</details>
+<details>
+<summary>contact.html</summary>
+<img src="">
+</details>
+<details>
+<summary>problems.html</summary>
+<img src="">
+</details>
+<details>
+<summary>gallery.html</summary>
+<img src="">
+</details>
+<details>
+<summary>thank-you.html</summary>
+<img src="">
+</details>
+
+### Jigsaw Results
+
+### Other Testing
+- Viewed on an Iphone 14 Pro using Safari & 13inch macbook pro using both Chrome and Safari, amazon fire tablet using Silk browser and a larger desktop monitor using Chrome. 
+- Links between pages were all working throughout the coding process.
+- Chrome dev tools was used throughout to check responsiveness.
+
+### Lighthouse Results
+
+#### Mobile
+
+<details>
+<summary>Homepage</summary>
+<img src="">
+</details>
+<details>
+<summary>Prices</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/mobile-prices-lighthouse.png">
+</details>
+<details>
+<summary>Contact</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/mobile-contact-lighthouse.png">
+</details>
+<details>
+<summary>Common Problems</summary>
+<img src="">
+</details>
+<details>
+<summary>Gallery</summary>
+<img src="">
+</details>
+<details>
+<summary>Thank you page</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/mobile-thanks-lighthouse.png">
+</details>
+
+#### Desktop
+
+<details>
+<summary>Homepage</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-homepage-lighthouse.png">
+</details>
+<details>
+<summary>Prices</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-prices-lighthouse.png">
+</details>
+<details>
+<summary>Contact</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-contact-lighthouse.png">
+</details>
+<details>
+<summary>Common Problems</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-problems-lighthouse.png">
+</details>
+<details>
+<summary>Gallery</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-gallery-lighthouse.png">
+</details>
+<details>
+<summary>Thank you page</summary>
+<img src="/workspace/cherwelcaravanservices/assets/readme-images/desktop-thanks-lighthouse.png">
+</details>
 
 ***
 
@@ -153,11 +256,32 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ***
 
+## Deployment
+
+GitHub Pages used to deploy live version of the website.
+
+- Log in to GitHub and locate GitHub Repository Cherwel Caravan Services
+- At the top of the Repository click settings
+- Scroll down the settings page and click on pages (found on the left)
+- Under "Source", select 'deploy from a branch' from the dropdown menu
+- Under "branch", check that "main" is selected
+- Save and refresh to get the link to deployed site (could take up to 10 minutes)
+
+### How to fork
+
+### How to clone
+
+***
+
 ## Credits
+
+- Color contrast checker
+- Flexbox guide
+- Grid guide
 
 ## Acknowledgements
 
-- My Mentor
+- My Mentor Mitko Bachvarov
 - [MCEA website for the logo used in the footer, linking to Cherwel Caravan Services resgistered profile]()
 - [Gas Safe Register logo, also used in the footer and linking to the bucompanies registered profile]()
 - Kera Cudmore - for her readme.md presentation which was a big help in writing my first readme.
