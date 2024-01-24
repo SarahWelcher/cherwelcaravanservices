@@ -372,6 +372,7 @@ td {
 
 .review-section {
     width: 100%;
+    height: 350px;
     display: flex;
 }
 
@@ -705,14 +706,18 @@ td {
     }
 
     #contact {
-        font-size: 130%;
+        font-size: 150%;
         width: 100%;
     }
 
-    .review{ 
+    .review-section {
+        height: 420px;
+    }
+
+    .review { 
         justify-content: center;
         padding: 1em;
-        margin-bottom: 4em;
+        margin-bottom: 75px;
     }
 
     #thanks-bg {
@@ -726,6 +731,21 @@ td {
   #photos {
       column-count: 2;
   }
+}
+
+/* Responsive design - medium tablets */
+
+@media screen and (max-width: 645px) {
+    .review-section {
+        flex-wrap: wrap;
+        height: 800px;
+    }
+    
+    .review {
+        justify-content: center;
+        margin: 0;
+        padding: 0.5;
+    }
 }
 
 @media screen and (max-width: 623px) {
@@ -818,16 +838,6 @@ td {
     .problems {
         width: 100%;
         margin: 0 20px;
-    }
-    
-    .review-section {
-        flex-wrap: wrap; 
-    }
-    
-    .review {
-        justify-content: center;
-        margin: 0;
-        padding: 0.5;
     }
 
     .problems-intro-container, .fridge-container, .water-container{
