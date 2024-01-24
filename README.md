@@ -86,7 +86,7 @@ Basic wireframes were created for mobile, tablet and desktop using Balsamiq.
 </details>
 <details>
 <summary>Gallery</summary>
-<img src="">
+<img src="assets/readme-images/gallery-wireframe.png">
 </details>
 
 ### Colors
@@ -144,10 +144,11 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ## Technology Used
 
-- HTML and CSS was used to create the website.
-- All wireframes were created using [Balsamiq]()  
-- All icons used across the website were found on [Font Awesome]()
-- [Google fonts]() was used for all typography
+- HTML and CSS was used to create the website
+- All wireframes were created using [Balsamiq](https://balsamiq.com/)  
+- All icons used across the website were found on [Font Awesome](https://fontawesome.com/icons)
+- [Google fonts](https://fonts.google.com/) was used for all typography
+- [amiresponsive](https://ui.dev/amiresponsive) was used for the mock ups
 
 ***
 
@@ -269,15 +270,35 @@ GitHub Pages used to deploy live version of the website.
 
 ### How to fork
 
+- Log in to GitHub and locate GitHub Repository Cherwel Caravan Services
+- In the top right corner of the page, click fork
+- Under "Owner," select the dropdown menu and click an owner for the forked repository.
+- By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
+- Optionally, in the "Description" field, type a description of your fork.
+- Optionally, select Copy the DEFAULT branch only.
+- For many forking scenarios, such as contributing to open-source projects, you only need to copy the default branch. If you do not select this option, all branches will be copied into the new fork.
+- Click Create fork.
+
 ### How to clone
+
+- On GitHub.com, navigate to the main page of the repository.
+- Above the list of files, click  Code.
+- Copy the URL for the repository.
+  - To clone the repository using HTTPS, under "HTTPS", click the clipboard icon.
+  - To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the clipboard icon .
+  - To clone a repository using GitHub CLI, click GitHub CLI, then click copy icon .
+- Open Terminal.
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied earlier.
+- Press Enter to create your local clone.
 
 ***
 
 ## Credits
 
-- Color contrast checker
-- Flexbox guide
-- Grid guide
+- [Coolors contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5)
+- [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Acknowledgements
 
