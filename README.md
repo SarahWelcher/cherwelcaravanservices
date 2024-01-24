@@ -255,6 +255,8 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ### Unresolved issues
 
+- Mobile view - Have to zoom out slightly on each page so the page sits at 100% width. 
+
 ***
 
 ## Deployment
