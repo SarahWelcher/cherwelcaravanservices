@@ -206,11 +206,11 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 </details>
 <details>
 <summary>Common Problems</summary>
-<img src="">
+<img src="assets/readme-images/mobile-problems-lighthouse.png">
 </details>
 <details>
 <summary>Gallery</summary>
-<img src="">
+<img src="assets/readme-images/mobile-gallery-lighthouse.png">
 </details>
 <details>
 <summary>Thank you page</summary>
