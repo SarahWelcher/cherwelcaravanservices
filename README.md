@@ -306,3 +306,5 @@ GitHub Pages used to deploy live version of the website.
 - [MCEA website for the logo used in the footer, linking to Cherwel Caravan Services resgistered profile]()
 - [Gas Safe Register logo, also used in the footer and linking to the bucompanies registered profile]()
 - Kera Cudmore - for her readme.md presentation which was a big help in writing my first readme.
+- Phil Whitty on Slack for his help with the hero image, and general encouragement.
+- The slack community.
