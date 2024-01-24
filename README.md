@@ -70,7 +70,7 @@ Basic wireframes were created for mobile, tablet and desktop using Balsamiq.
 
 <details>
 <summary>Homepage Wireframe</summary>
-<img src="/workspace/cherwelcaravanservices/assets/readme-images/home-wireframe.png">
+<img src="assets/readme-images/home-wireframe.png">
 </details>
 <details>
 <summary>Prices wireframe</summary>
