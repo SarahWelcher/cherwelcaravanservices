@@ -55,7 +55,7 @@ ul li a {
     justify-content: center;    
     align-items: center;
     background: url("../images/pano-hero-image.webp");
-    height: 500px;
+    min-height: 500px;
     width: 100%;
     background-size: cover;
     background-clip: border-box;
@@ -154,6 +154,7 @@ ul li a {
     background-size: cover;
     background-position: center;
     width: 100%;
+    height: auto;
 }
 
 #about-us-text-container {
@@ -460,6 +461,7 @@ td {
 
 #photos img {
     width: 100%;
+    height: auto;
 }
 
 /* ----------------------- Thank you ------------------------------- */

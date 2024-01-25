@@ -194,54 +194,54 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 <details>
 <summary>Homepage</summary>
-<img src="">
+<img src="assets/readme-images/lighthouse-homepage-mobile.png">
 </details>
 <details>
 <summary>Prices</summary>
-<img src="assets/readme-images/mobile-prices-lighthouse.png">
+<img src="assets/readme-images/lighthouse-prices-mobile.png">
 </details>
 <details>
 <summary>Contact</summary>
-<img src="assets/readme-images/mobile-contact-lighthouse.png">
+<img src="assets/readme-images/lighthouse-contact-mobile.png">
 </details>
 <details>
 <summary>Common Problems</summary>
-<img src="assets/readme-images/mobile-problems-lighthouse.png">
+<img src="assets/readme-images/lighthouse-problems-mobile.png">
 </details>
 <details>
 <summary>Gallery</summary>
-<img src="assets/readme-images/mobile-gallery-lighthouse.png">
+<img src="assets/readme-images/lighthouse-gallery-mobile.png">
 </details>
 <details>
 <summary>Thank you page</summary>
-<img src="assets/readme-images/mobile-thanks-lighthouse.png">
+<img src="assets/readme-images/lighthouse-thanks-mobile.png">
 </details>
 
 #### Desktop
 
 <details>
 <summary>Homepage</summary>
-<img src="assets/readme-images/desktop-homepage-lighthouse.png">
+<img src="assets/readme-images/lighthouse-homepage-desktop.png">
 </details>
 <details>
 <summary>Prices</summary>
-<img src="assets/readme-images/desktop-prices-lighthouse.png">
+<img src="assets/readme-images/lighthouse-prices-desktop.png">
 </details>
 <details>
 <summary>Contact</summary>
-<img src="assets/readme-images/desktop-contact-lighthouse.png">
+<img src="assets/readme-images/lighthouse-contact-desktop.png">
 </details>
 <details>
 <summary>Common Problems</summary>
-<img src="assets/readme-images/desktop-problems-lighthouse.png">
+<img src="assets/readme-images/lighthouse-problems-desktop.png">
 </details>
 <details>
 <summary>Gallery</summary>
-<img src="assets/readme-images/desktop-gallery-lighthouse.png">
+<img src="assets/readme-images/lighthouse-gallery-desktop.png">
 </details>
 <details>
 <summary>Thank you page</summary>
-<img src="assets/readme-images/desktop-thanks-lighthouse.png">
+<img src="assets/readme-images/lighthouse-thanks-desktop.png">
 </details>
 
 ***
