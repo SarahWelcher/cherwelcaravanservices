@@ -4,7 +4,7 @@ This website is designed to be responsive on a range of devices. Cherwel Caravan
 
 ![](/assets/readme-images/mockup.png)
 
-Cherwel Caravan Services is available to view at ![]()
+[Cherwel Caravan Services is available to view on Github pages](https://sarahwelcher.github.io/cherwelcaravanservices/)
 ***
 
 ## Table of Contents
@@ -91,7 +91,7 @@ Basic wireframes were created for mobile, tablet and desktop using Balsamiq.
 
 ### Colors
 
-The company does not have an official logo. A dark blue/grey was used as a starting point for the coolers color generator (based on an old business card that was used previouslyƒ), which came up with a pallet consisting of earthy tones. Blue represents loyalty, reliability and confidence, and the earthy tones signify nature; customers often visit places of natural beauty when using their caravans for holidays or short breaks. 
+The company does not have an official logo. A dark blue/grey was used as a starting point for the coolers color generator (based on an old business card that was used previously), which came up with a pallet consisting of earthy tones. Blue represents loyalty, reliability and confidence, and the earthy tones signify nature; customers often visit places of natural beauty when using their caravans for holidays or short breaks. 
 The color palette was created using [Coolors](https://www.coolors.co/). 
 
 ![Color palette showing 5 different muted earthy tones; blue/grey, green, reds and stoney colors](assets/readme-images/color-palette.png)
@@ -102,7 +102,7 @@ Google fonts was used to select the typography used within the website. BenchNin
 
 ### Images
 
-Most images used within the website were photographed and edited by myself, however I did use images of company logos from outside sources registered profile links (credited below), as well as icons from FontAwesome.
+Most images used within the website were photographed and edited by myself, however I did use images of company logos from outside sources to link registered profile (credited below), as well as icons from FontAwesome.
 
 ### Accessibility
 
@@ -304,9 +304,8 @@ GitHub Pages used to deploy live version of the website.
 
 ## Acknowledgements
 
-- My Mentor Mitko Bachvarov
-- [MCEA website for the logo used in the footer, linking to Cherwel Caravan Services resgistered profile]()
-- [Gas Safe Register logo, also used in the footer and linking to the bucompanies registered profile]()
+- My Mentor Mitko Bachvarov.
+- [MCEA website for the logo used in the footer, linking to Cherwel Caravan Services resgistered profile](https://www.mobilecaravanengineers.co.uk/)
+- [Gas Safe Register logo, also used in the footer and linking to the bucompanies registered profile](https://www.gassaferegister.co.uk/)
 - Kera Cudmore - for her readme.md presentation which was a big help in writing my first readme.
 - Phil Whitty on Slack for his help with the hero image, and general encouragement.
-- The slack community.
