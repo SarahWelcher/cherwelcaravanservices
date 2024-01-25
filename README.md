@@ -111,7 +111,7 @@ I have attempted to make the website as accessible as possible by using colors t
 
 #### Homepage 
 
-The homepage was designed to give ease of access to key information to prevent users having to search the website for what they need, providing a good user experience. The homepage therefore shows a list of services provided with a link to more information, which can be found within the prices page.
+The homepage was designed to give ease of access to key information to prevent users having to search the website for what they need, providing a good user experience. The homepage therefore shows a list of services provided.
 
 #### Prices
 
