@@ -232,7 +232,6 @@ footer {
     background-color: #ABD1B5;
     border-radius: 10px;
     padding: 2em;
-    width: 90%;
 }
 
 .prices-intro h2 {
@@ -277,7 +276,7 @@ td {
     justify-content: center;
     align-items: center;
     width: 100%;
-   }
+}
 
 #form {
     margin-top: 80px;
