@@ -106,7 +106,6 @@ Most images used within the website were photographed and edited by myself, howe
 ### Accessibility
 
 I have attempted to make the website as accessible as possible by using colors that contrast well, using semantic HTML and using descriptive alt attributes on images.
-I have provided descriptions where icons are used to allow screen readers to read these.
 
 ### Structure
 
