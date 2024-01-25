@@ -569,7 +569,7 @@ td {
     }
 
     #hero-overlay-text {
-        height: 17em;
+        height: auto;
         padding: 0;
     }
 
@@ -601,8 +601,8 @@ td {
     }
 
     #portait-container {
-        width: 15rem;
-        height: 15rem;
+        width: 250px;
+        height: 250px;
         border-radius: 50%;
         border: 8px solid #3D5467; 
         overflow: hidden;
@@ -621,7 +621,6 @@ td {
         justify-content: center;
         align-items: center;
         padding: 0;
-        margin-left: 1em;
     }
 
     #about-us-text-container #about-us-text {
@@ -658,14 +657,14 @@ td {
     .prices-intro {
         font-size: 130%;
         text-align: center;
-        padding: 1em;
+        padding: 10px;
     }
 
     .table-container {
         background-color: #ABD1B5;
-        margin: 0.5em;
+        margin: 7px;
         border-radius: 10px;
-        padding: 2em;
+        padding: 5px;
     }
 
     .prices-table {
@@ -676,7 +675,7 @@ td {
     }
 
     td {
-        padding: 0.3em 1em;
+        padding: 5px 10px;
         border-bottom: 1px solid #293847;
     }
 
@@ -716,16 +715,16 @@ td {
 
     .review { 
         justify-content: center;
-        padding: 1em;
+        padding: 10px;
         margin-bottom: 75px;
     }
 
     #thanks-bg {
-        padding: 2em;
+        padding: 5px;
     }
 
     #thank-you, #thanks-message, #terms {
-        padding: 0.5em;
+        padding: 5px;
     }
 
   #photos {
@@ -820,7 +819,7 @@ td {
 
     #services .options h2{
         align-items: center;
-        padding: 0.5em 0 0 0; 
+        padding: 10px 0 0 0; 
     }
 
     .hide {
@@ -832,7 +831,7 @@ td {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        padding-top: 4.5em;
+        padding-top: 5px;
     }
 
     .problems {
