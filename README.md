@@ -35,7 +35,6 @@ This website is designed to be responsive on a range of devices. Cherwel Caravan
     - [Mobile](#mobile)
     - [Desktop](desktop)
 - [Bugs \& Issues](#bugs--issues)
-  - [Solved bugs](#solved-bugs)
   - [Unresolved issues](#unresolved-issues)
 - [Deployment](#deployment)
   - [How to fork](#how-to-fork)
@@ -56,7 +55,7 @@ This website is designed to be responsive on a range of devices. Cherwel Caravan
 ### Client Goals
 
 - To have a responsive website for different screen sizes.
-- To provide information to new and current customers showing what services are avaiable to them.
+- To provide information to new and current customers showing what services are available to them.
 - To provide price information to new and current customers for any work that has a set cost.
 -  To increase customer base.
 -  To allow new and current customers to easily contact Cherwel Caravan Services with any questions or booking enquiries.
@@ -98,7 +97,7 @@ The color palette was created using [Coolors](https://www.coolors.co/).
 
 ### Typography
 
-Google fonts was used to select the typography used within the website. BenchNine was primarly used across the site, with Oswald for logo and navigation bar, and sans-serif as fall back.
+Google fonts was used to select the typography used within the website. BenchNine was primarily used across the site, with Oswald for logo and navigation bar, and sans-serif as fall back.
 
 ### Images
 
@@ -121,7 +120,7 @@ The prices page shows the set prices of certain service and maintenance options.
 
 #### Contact 
 
-The contact page has key information showing how to contat Cherwel Caravan Services, as well as a form they can fill out within the website if they would prefer not to call or use an external email system. The contact page also shows recent reviews from customers below contact information so any potential new customers who were looking to contact the service, can see what other customers think.
+The contact page has key information showing how to contact Cherwel Caravan Services, as well as a form they can fill out within the website if they would prefer not to call or use an external email system. The contact page also shows recent reviews from customers below contact information so any potential new customers who were looking to contact the service, can see what other customers think.
 
 #### Common problems
 
@@ -376,14 +375,10 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ## Bugs & Issues
 
-### Solved bugs
-
-- 
--
-
 ### Unresolved issues
 
-- Mobile view - Have to zoom out slightly on each page so the page sits at 100% width. 
+- Mobile view - Have to zoom out a little on each page as it slightly overhangs despite being set at width:100%. 
+- Performance of homepage on mobile - Images and layout shift are causing a lower score on mobile lighthouse testing.
 
 ***
 
@@ -432,9 +427,9 @@ GitHub Pages used to deploy live version of the website.
 
 ## Acknowledgements
 
-- My Mentor Mitko Bachvarov.
+- My Mentor Mitko Bachvarov, for all his help and advice.
 - The code institue tutor support - especially during deadline week!
 - Kera Cudmore - for her readme.md presentation which was a big help in writing my first readme.
 - Phil Whitty on Slack for his help with the hero image, and general encouragement.
-- [MCEA website for the logo used in the footer, linking to Cherwel Caravan Services resgistered profile](https://www.mobilecaravanengineers.co.uk/)
-- [Gas Safe Register logo, also used in the footer and linking to the bucompanies registered profile](https://www.gassaferegister.co.uk/)
+- [MCEA website for the logo used in the footer, linking to Cherwel Caravan Services registered profile](https://www.mobilecaravanengineers.co.uk/)
+- [Gas Safe Register logo, also used in the footer and linking to the companies registered profile](https://www.gassaferegister.co.uk/)
