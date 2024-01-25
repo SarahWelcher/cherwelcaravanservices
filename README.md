@@ -145,6 +145,7 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 ## Technology Used
 
 - HTML and CSS was used to create the website
+- Gitpod & Gitub
 - All wireframes were created using [Balsamiq](https://balsamiq.com/)  
 - All icons used across the website were found on [Font Awesome](https://fontawesome.com/icons)
 - [Google fonts](https://fonts.google.com/) was used for all typography
