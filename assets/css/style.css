@@ -746,6 +746,8 @@ td {
     }
 }
 
+/* responsive design - max width 623px */
+
 @media screen and (max-width: 623px) {
     #hero-container {
         width: 100%;
@@ -772,7 +774,6 @@ td {
     }
 }
 
-
 /* responsive design - mobile */
 
 @media screen and (max-width: 480px) {
@@ -792,9 +793,10 @@ td {
     }
 
     nav {
-        margin-top: 0;
+        margin: 0;
         margin-bottom: 15px;
-        font-size: 90%;
+        font-size: 15px;
+        padding: 0;
     }
 
     .mobile-only {
