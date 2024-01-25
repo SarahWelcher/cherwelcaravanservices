@@ -183,6 +183,8 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 ### Jigsaw Results
 
+![](assets/readme-images/jigsaw-validator.png)
+
 ### Other Testing
 - Viewed on an Iphone 14 Pro using Safari & 13inch macbook pro using both Chrome and Safari, amazon fire tablet using Silk browser and a larger desktop monitor using Chrome. 
 - Links between pages were all working throughout the coding process.
