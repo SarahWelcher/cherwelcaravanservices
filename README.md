@@ -135,6 +135,131 @@ This page shows some images of recent work being carried out.
 
 ## Features
 
+- This website is targeting people who require a service or repair on their caravan.
+- They are able to check service options, prices, and contact the company via email, phone or contact form. They can also check reviews.
+- Responsive on all device sizes.
+
+### Nav
+
+- Logo and navigation bar is featured on all pages.
+- Includes links to all pages, as well as logo linking back to homepage. 
+- Nav moves below logo on smaller device screens.
+- Allows users to easily navigate website.
+
+<details>
+<summary>Navigation</summary>
+<img src="assets/readme-images/features-nav.png">
+</details>
+
+### Hero image
+
+- Includes overlay text with a contact button that links to contact page.
+- Only shown on homepage.
+
+<details>
+<summary>Hero image and overlay text</summary>
+<img src="assets/readme-images/features-hero.png">
+</details>
+
+### Service option grid
+
+- Shows the main service, repair and maintenance options available.
+- Has a short description of the service option.
+- On tablet screens, some options are hidden. 
+- On mobile screens, some options are hidden along with all descriptions.
+
+<details>
+<summary>Service option grid</summary>
+<img src="assets/readme-images/features-options.png">
+</details>
+
+### About us section
+
+- Allows users to understand how Cherwel Caravan Services was started and who runs it. 
+- Shows a portrait of the owner of the company.
+
+<details>
+<summary>About us</summary>
+<img src="assets/readme-images/features-about.png">
+</details>
+
+### Footer
+
+- Allows users to visit the company facebook page, and the registered profiles on the Mobile Caravan Engineers Association website, and Gas Safety Register website.
+- Fixed at bottom of all pages.
+
+<details>
+<summary>Footer</summary>
+<img src="assets/readme-images/features-footer.png">
+</details>
+
+### Prices
+
+- Allows users to find out how much service options cost.  
+- Shows users that the price of parts is not included.
+- Allows users to check emergency call out cost.
+
+<details>
+<summary>Prices</summary>
+<img src="assets/readme-images/features-prices.png">
+</details>
+
+### Contact form
+
+- Allows users to contact Cherwel Caravan Services.
+- Submits to a thank you page stating that the information does not actually go anywhere currently. 
+- Has a reset form button
+
+<details>
+<summary>Form</summary>
+<img src="assets/readme-images/features-form.png">
+</details>
+
+<details>
+<summary>Thank you page</summary>
+<img src="assets/readme-images/features-thanks.png">
+</details>
+
+### Contact details
+
+- Shows contact details that customers can use if they choose not to use the form. 
+
+<details>
+<summary>Contact details</summary>
+<img src="assets/readme-images/features-contact.png">
+</details>
+
+### Reviews
+
+- Allows users to check the 3 most recent reviews.
+- Reviews are at the bottom of the contact page, and stack on smaller screens.
+
+<details>
+<summary>Reviews</summary>
+<img src="assets/readme-images/features-reviews.png">
+</details>
+
+### Common Problems
+
+- Assists customers to try and fix minor issues themselves before they have to consider a call out fee or repair fee.
+- Explains that the company are happy to try and assist over the phone if necessary before booking a call out.
+- Features a video explaining a common fridge issue.
+- Video has subtitles and the text below also repeats video content for accessibility.
+
+<details>
+<summary>Common problems</summary>
+<img src="assets/readme-images/features-problems.png">
+</details>
+
+### Gallery
+
+- Shows images of recent work carried out by Paul, the owner of Cherwel Caravan Services.
+
+<details>
+<summary>Gallery</summary>
+<img src="assets/readme-images/features-gallery.png">
+</details>
+
 ### Future Features
 
 In future, I would like to add in a calendar that can be used to book a service in whilst on the website.
@@ -159,27 +284,27 @@ I would also like to add a 'pay invoice' page where users are able to input the 
 
 <details>
 <summary>index.html</summary>
-<img src="">
+<img src="assets/readme-images/home-w3-validator.png">
 </details>
 <details>
 <summary>prices.html</summary>
-<img src="">
+<img src="assets/readme-images/prices-w3-validator.png">
 </details>
 <details>
 <summary>contact.html</summary>
-<img src="">
+<img src="assets/readme-images/contact-w3-validator.png">
 </details>
 <details>
 <summary>problems.html</summary>
-<img src="">
+<img src="assets/readme-images/problems-w3-validator.png">
 </details>
 <details>
 <summary>gallery.html</summary>
-<img src="">
+<img src="assets/readme-images/gallery-w3-validator.png">
 </details>
 <details>
 <summary>thank-you.html</summary>
-<img src="">
+<img src="assets/readme-images/thanks-w3-validator.png">
 </details>
 
 ### Jigsaw Results
