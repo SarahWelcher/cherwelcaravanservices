@@ -44,7 +44,6 @@ This website is designed to be responsive on a range of devices. Cherwel Caravan
 
 ***
 
-
 ### Key Information
 
 - What service/repair/maintenance options Cherwel Caravan Services offer.
