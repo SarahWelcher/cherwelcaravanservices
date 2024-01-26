@@ -5,6 +5,7 @@ This website is designed to be responsive on a range of devices. Cherwel Caravan
 ![](/assets/readme-images/mockup.png)
 
 [Cherwel Caravan Services is available to view on Github pages](https://sarahwelcher.github.io/cherwelcaravanservices/)
+- https://sarahwelcher.github.io/cherwelcaravanservices/ - link incase hyperlink does not work for some reason.
 ***
 
 ## Table of Contents

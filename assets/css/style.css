@@ -439,7 +439,6 @@ td {
 
 /* ----------------------- water ingress problems ------------------------------- */
 
-
 .water-container {
     background-color: #ABD1B5;
     border-radius: 10px;
@@ -860,5 +859,4 @@ td {
     .prices-intro, .prices-table {
         font-size: 90%;
     }
-    
 }
